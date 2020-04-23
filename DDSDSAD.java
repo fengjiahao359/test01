@@ -6,6 +6,6 @@ package cn;
  */
 public class DDSDSAD {
     public static void main(String[] args) {
-        System.out.println("我是真的服了");
+        System.out.println("我是真的服了打撒");
     }
 }
