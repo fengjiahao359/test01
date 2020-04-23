@@ -23,7 +23,7 @@ public class EnumTest {
 
             e.printStackTrace();
         }
-        System.out.println("我好烦啊");
+        System.out.println("我好烦啊撒旦撒旦");
 
 
     }
