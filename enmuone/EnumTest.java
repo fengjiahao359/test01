@@ -23,6 +23,7 @@ public class EnumTest {
 
             e.printStackTrace();
         }
+        System.out.println("Œ“∫√∑≥∞°");
 
 
     }
