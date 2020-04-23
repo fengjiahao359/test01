@@ -23,7 +23,7 @@ public class EnumTest {
 
             e.printStackTrace();
         }
-        System.out.println("ÎÒºÃ·³°¡Èöµ©Èöµ©°¡asdadsa°¡ ");
+        System.out.println("ÎÒºÃ·³°¡Èöµ©Èöµ©°¡asdadsa°¡souga ");
 
 
     }
