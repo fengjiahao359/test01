@@ -11,7 +11,7 @@ public class MyStack {
         lengh++;
         if(lengh==10)
         {
-            throw new MystackException("数组已满，不能加入数据了！");
+            throw new MystackException("数组已满，不能加入数据了！宝贝");
         }
         System.out.println(lengh);
     }
